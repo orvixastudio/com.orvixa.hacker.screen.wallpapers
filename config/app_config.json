@@ -1,0 +1,335 @@
+{
+  "apps": {
+    "status": true,
+    "featured_categories": "Terminal Code, System Compromised, Cyberpunk HUD, Glitch & Corrupt, Cyber Masks",
+    "show_wallpaper_name": true,
+    "show_wallpaper_category": true,
+    "show_favorite_button_in_wallpaper_list": true,
+    "enable_slider_wallpaper": false,
+    "enable_rtl_mode": false,
+    "enable_exit_dialog": true,
+    "enable_vpn_access": false,
+    "enable_dark_mode_as_default_theme": true,
+    "enable_more_apps": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://orvixa-studio.blogspot.com/p/privacy-policy-hacker-screen-wallpapers.html"
+  },
+  "ads": {
+    "mainAds": "admob",
+    "backupAds": "none",
+    "adStatus": true,
+    "interstitialInterval": 3,
+    "bannerStatus": true,
+    "interstitialStatus": true,
+    "nativeStatus": true,
+    "rewardedStatus": true,
+    "appOpenStatus": false,
+    "mainAdmobAppId": "ca-app-pub-4631404232937485~8323244505",
+    "mainAdManagerAppId": "0",
+    "mainStartappAppId": "0",
+    "mainUnityGameId": "0",
+    "mainIronsourceAppKey": "0",
+    "mainApplovinSdkKey": "0",
+    "mainBannerId": "ca-app-pub-4631404232937485/8861320615",
+    "mainInterstitialId": "ca-app-pub-4631404232937485/8777560134",
+    "mainNativeId": "ca-app-pub-4631404232937485/8690076013",
+    "mainRewardedId": "ca-app-pub-4631404232937485/8410874412",
+    "mainAppOpenId": "ca-app-pub-4631404232937485/2212151783",
+    "backupAdmobAppId": "0",
+    "backupAdManagerAppId": "0",
+    "backupStartappAppId": "0",
+    "backupUnityGameId": "0",
+    "backupIronsourceAppKey": "0",
+    "backupApplovinSdkKey": "0",
+    "backupBannerId": "0",
+    "backupInterstitialId": "0",
+    "backupNativeId": "0",
+    "backupRewardedId": "0",
+    "backupAppOpenId": "0"
+  },
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Terminal Code",
+      "category_image": "terminal-code.webp",
+      "prompt": "Fullscreen texture banner of a hacker terminal screen. Glowing neon green cascading digital code and binary numbers. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, horizontal 2:1 aspect ratio."
+    },
+    {
+      "category_id": 2,
+      "category_name": "System Compromised",
+      "category_image": "system-compromised.webp",
+      "prompt": "Fullscreen texture banner of a hacked screen warning. Bold neon red typography displaying 'ACCESS DENIED' with glitch effects. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, horizontal 2:1 aspect ratio."
+    },
+    {
+      "category_id": 3,
+      "category_name": "Cyberpunk HUD",
+      "category_image": "cyberpunk-hud.webp",
+      "prompt": "Fullscreen texture banner of a futuristic sci-fi HUD (Heads Up Display). Glowing cyan and magenta digital radar and targeting grids. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, horizontal 2:1 aspect ratio."
+    },
+    {
+      "category_id": 4,
+      "category_name": "Glitch & Corrupt",
+      "category_image": "glitch-&-corrupt.webp",
+      "prompt": "Fullscreen texture banner of corrupted digital data and chromatic aberration glitch art. Smeared pixels in RGB colors. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, horizontal 2:1 aspect ratio."
+    },
+    {
+      "category_id": 5,
+      "category_name": "Cyber Masks",
+      "category_image": "cyber-masks.webp",
+      "prompt": "Fullscreen texture banner of a glowing neon wireframe anonymous hacker mask. Minimalist and menacing cyber aesthetic. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, horizontal 2:1 aspect ratio."
+    }
+  ],
+  "wallpapers": [
+    {
+      "wallpaper_id": 1,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Classic Matrix Rain",
+      "wallpaper_thumbnail": "classic-matrix-rain.webp",
+      "wallpaper_url": "classic-matrix-rain.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of glowing neon green cascading digital code and binary numbers falling vertically, reminiscent of the Matrix. Pure pitch-black background #000000. High contrast, sharp text. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 2,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Red Server Breach",
+      "wallpaper_thumbnail": "red-server-breach.webp",
+      "wallpaper_url": "red-server-breach.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of an aggressive hacker terminal filled with glowing neon red command lines and rapid data compilation text. Pure pitch-black background #000000. Cyber attack aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 3,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Cyan Boot Sequence",
+      "wallpaper_thumbnail": "cyan-boot-sequence.webp",
+      "wallpaper_url": "cyan-boot-sequence.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a futuristic system booting sequence terminal. Crisp, minimalist glowing cyan text and loading bars. Pure pitch-black background #000000. Clean tech aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 4,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Encrypted White Script",
+      "wallpaper_thumbnail": "encrypted-white-script.webp",
+      "wallpaper_url": "encrypted-white-script.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of tiny, incredibly dense white hexadecimal encrypted codes covering the entire screen. Pure pitch-black background #000000. Extremely minimalist and professional hacker look. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 5,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Orange Hack Tool",
+      "wallpaper_thumbnail": "orange-hack-tool.webp",
+      "wallpaper_url": "orange-hack-tool.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a brute-force hacking tool interface in glowing neon orange typography with IP addresses and scanning progress bars. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 6,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Access Denied Alert",
+      "wallpaper_thumbnail": "access-denied-alert.webp",
+      "wallpaper_url": "access-denied-alert.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture displaying a massive, bold neon red 'ACCESS DENIED' typography in the center, surrounded by subtle error codes. Intense digital glitch effect on the text. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 7,
+      "category_name": "System Compromised",
+      "wallpaper_name": "System Hacked Banner",
+      "wallpaper_thumbnail": "system-hacked-banner.webp",
+      "wallpaper_url": "system-hacked-banner.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture showing a neon green warning banner reading 'SYSTEM COMPROMISED' with dripping digital pixel effects. Pure pitch-black background #000000. Cyberpunk warning aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 8,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Malware Detected",
+      "wallpaper_thumbnail": "malware-detected.webp",
+      "wallpaper_url": "malware-detected.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture featuring a glowing neon yellow biohazard or digital virus symbol with the text 'MALWARE DETECTED' underneath. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 9,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Data Wiping Process",
+      "wallpaper_thumbnail": "data-wiping-process.webp",
+      "wallpaper_url": "data-wiping-process.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture showing a terrifying terminal interface displaying 'WIPING ALL DATA... 99%' in stark white and red typography. Pure pitch-black background #000000. Perfect for pranking friends. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 10,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Glitching Padlock",
+      "wallpaper_thumbnail": "glitching-padlock.webp",
+      "wallpaper_url": "glitching-padlock.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a minimalist, glowing red digital padlock icon shaking with chromatic aberration and glitch effects in the center. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 11,
+      "category_name": "Cyberpunk HUD",
+      "wallpaper_name": "Sniper Target Grid",
+      "wallpaper_thumbnail": "sniper-target-grid.webp",
+      "wallpaper_url": "sniper-target-grid.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a high-tech sci-fi targeting reticle and grid interface, similar to a futuristic sniper scope or robot vision. Glowing neon cyan and magenta lines. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 12,
+      "category_name": "Cyberpunk HUD",
+      "wallpaper_name": "Biometric Eye Scanner",
+      "wallpaper_thumbnail": "biometric-eye-scanner.webp",
+      "wallpaper_url": "biometric-eye-scanner.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a highly detailed, glowing blue digital biometric retina scanner interface with rotating circular tech UI elements. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 13,
+      "category_name": "Cyberpunk HUD",
+      "wallpaper_name": "Digital City Radar",
+      "wallpaper_thumbnail": "digital-city-radar.webp",
+      "wallpaper_url": "digital-city-radar.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a tactical holographic radar map showing a wireframe neon green city grid from a top-down perspective. Pure pitch-black background #000000. Cyberpunk 2077 aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 14,
+      "category_name": "Cyberpunk HUD",
+      "wallpaper_name": "Iron Vision Interface",
+      "wallpaper_thumbnail": "iron-vision-interface.webp",
+      "wallpaper_url": "iron-vision-interface.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a complex, glowing orange and yellow heads-up display with altitude meters, target locks, and tech schematics framing the screen edges. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 15,
+      "category_name": "Cyberpunk HUD",
+      "wallpaper_name": "Audio Waveform Tracker",
+      "wallpaper_thumbnail": "audio-waveform-tracker.webp",
+      "wallpaper_url": "audio-waveform-tracker.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a glowing neon purple and cyan digital audio waveform equalizer, looking like a high-tech spy surveillance recording device. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 16,
+      "category_name": "Glitch & Corrupt",
+      "wallpaper_name": "VHS Tracking Error",
+      "wallpaper_thumbnail": "vhs-tracking-error.webp",
+      "wallpaper_url": "vhs-tracking-error.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a severe digital screen glitch mimicking old VHS tracking errors, with thick horizontal bands of RGB static noise and displaced pixels. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 17,
+      "category_name": "Glitch & Corrupt",
+      "wallpaper_name": "Chromatic Distortion",
+      "wallpaper_thumbnail": "chromatic-distortion.webp",
+      "wallpaper_url": "chromatic-distortion.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of abstract, corrupted data where neon colors (cyan, magenta, yellow) are violently separated via extreme chromatic aberration, creating a dizzying hacker aesthetic. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 18,
+      "category_name": "Glitch & Corrupt",
+      "wallpaper_name": "Pixelated Void",
+      "wallpaper_thumbnail": "pixelated-void.webp",
+      "wallpaper_url": "pixelated-void.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a dark digital void where massive, chunky square pixels in shades of dark green and grey are slowly corrupting the screen. Pure pitch-black background #000000. Creepy digital decay. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 19,
+      "category_name": "Glitch & Corrupt",
+      "wallpaper_name": "Corrupted Binary Tree",
+      "wallpaper_thumbnail": "corrupted-binary-tree.webp",
+      "wallpaper_url": "corrupted-binary-tree.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a data structure (binary tree) that is visually breaking apart and glitching into red and blue fragments. Pure pitch-black background #000000. Abstract cyber tech error. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 20,
+      "category_name": "Glitch & Corrupt",
+      "wallpaper_name": "Static Noise Blast",
+      "wallpaper_thumbnail": "static-noise-blast.webp",
+      "wallpaper_url": "static-noise-blast.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a sudden blast of high-contrast black and white digital TV static noise, heavily distorted in the center as if the signal was hijacked. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 21,
+      "category_name": "Cyber Masks",
+      "wallpaper_name": "Neon Wireframe Skull",
+      "wallpaper_thumbnail": "neon-wireframe-skull.webp",
+      "wallpaper_url": "neon-wireframe-skull.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture featuring an aggressive, glowing neon green wireframe 3D skull floating in the center. Pure pitch-black background #000000. Ultimate hacker group aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 22,
+      "category_name": "Cyber Masks",
+      "wallpaper_name": "Glitching Anonymous",
+      "wallpaper_thumbnail": "glitching-anonymous.webp",
+      "wallpaper_url": "glitching-anonymous.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a highly stylized, minimalist white hacker mask (Guy Fawkes style) constructed entirely from flowing digital ASCII code and glitch effects. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 23,
+      "category_name": "Cyber Masks",
+      "wallpaper_name": "Cybernetic Red Eye",
+      "wallpaper_thumbnail": "cybernetic-red-eye.webp",
+      "wallpaper_url": "cybernetic-red-eye.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture featuring a terrifying macro close-up of a glowing, synthetic robotic red eye staring out from the darkness, surrounded by circuitry. Pure pitch-black background #000000. AI takeover aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Cyber Masks",
+      "wallpaper_name": "Holographic Fingerprint",
+      "wallpaper_thumbnail": "holographic-fingerprint.webp",
+      "wallpaper_url": "holographic-fingerprint.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a giant, glowing neon cyan thumbprint made of intricate circuit board lines. Pure pitch-black background #000000. Looks like a futuristic high-security lock screen. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Cyber Masks",
+      "wallpaper_name": "VR Demon Mask",
+      "wallpaper_thumbnail": "vr-demon-mask.webp",
+      "wallpaper_url": "vr-demon-mask.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of an intimidating Japanese Oni (demon) mask reimagined as a glowing cyberpunk hologram in magenta and electric blue. Pure pitch-black background #000000. Futuristic street hacker gang aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    }
+  ],
+  "more_apps": []
+}
