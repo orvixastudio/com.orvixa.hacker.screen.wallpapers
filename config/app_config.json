@@ -329,7 +329,282 @@
       "wallpaper_type": "static",
       "rewarded": false,
       "prompt": "Fullscreen texture of an intimidating Japanese Oni (demon) mask reimagined as a glowing cyberpunk hologram in magenta and electric blue. Pure pitch-black background #000000. Futuristic street hacker gang aesthetic. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Quantum Decryption",
+      "wallpaper_thumbnail": "quantum-decryption.webp",
+      "wallpaper_url": "quantum-decryption.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of glowing neon blue quantum algorithms and branching data nodes processing decryption. High-tech mainframe look. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Infinite Loop",
+      "wallpaper_thumbnail": "infinite-loop.webp",
+      "wallpaper_url": "infinite-loop.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a spiraling vortex of glowing green binary code pulling into the center of a void. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Hexadecimal Rain",
+      "wallpaper_thumbnail": "hexadecimal-rain.webp",
+      "wallpaper_url": "hexadecimal-rain.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of bright purple and cyan hexadecimal digits falling vertically like digital rain. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Firewall Override",
+      "wallpaper_thumbnail": "firewall-override.webp",
+      "wallpaper_url": "firewall-override.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of aggressive neon orange terminal text rapidly bypassing security protocols and executing code. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Root Access",
+      "wallpaper_thumbnail": "root-access.webp",
+      "wallpaper_url": "root-access.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a minimalist, crisp white command prompt interface indicating root access granted on a secure server. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Secure Shell",
+      "wallpaper_thumbnail": "secure-shell.webp",
+      "wallpaper_url": "secure-shell.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of glowing green SSH connection logs and encrypted data packets scrolling rapidly. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Node Network",
+      "wallpaper_thumbnail": "node-network.webp",
+      "wallpaper_url": "node-network.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of interconnected glowing data nodes and microscopic code snippets forming a dense network map. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Data Stream",
+      "wallpaper_thumbnail": "data-stream.webp",
+      "wallpaper_url": "data-stream.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of high-speed digital data transmission visualized as bright cyan streaks of code speeding by. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Uplink Established",
+      "wallpaper_thumbnail": "uplink-established.webp",
+      "wallpaper_url": "uplink-established.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a military satellite uplink terminal interface displaying connection stats in neon green. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Mainframe Bypass",
+      "wallpaper_thumbnail": "mainframe-bypass.webp",
+      "wallpaper_url": "mainframe-bypass.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of complex hacking scripts bypassing a central mainframe, rendered in striking neon yellow typography. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Encrypted Tunnel",
+      "wallpaper_thumbnail": "encrypted-tunnel.webp",
+      "wallpaper_url": "encrypted-tunnel.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a 3D perspective flying through a tunnel constructed entirely of glowing green digital code. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Proxy Server",
+      "wallpaper_thumbnail": "proxy-server.webp",
+      "wallpaper_url": "proxy-server.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture showing data routing through multiple global IP addresses with glowing blue technical text. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Ghost Protocol",
+      "wallpaper_thumbnail": "ghost-protocol.webp",
+      "wallpaper_url": "ghost-protocol.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of extremely faint, ghostly white encrypted code barely visible against the darkness. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Syntax Error",
+      "wallpaper_thumbnail": "syntax-error.webp",
+      "wallpaper_url": "syntax-error.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of glitching, jagged red terminal text displaying massive syntax failures and system halts. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Terminal Code",
+      "wallpaper_name": "Kernel Panic",
+      "wallpaper_thumbnail": "kernel-panic.webp",
+      "wallpaper_url": "kernel-panic.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a classic linux kernel panic screen stylized in intense glowing neon green. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 41,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Critical Failure",
+      "wallpaper_thumbnail": "critical-failure.webp",
+      "wallpaper_url": "critical-failure.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture featuring a massive flashing 'CRITICAL FAILURE' warning in bold neon red typography. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Firewall Breach",
+      "wallpaper_thumbnail": "firewall-breach.webp",
+      "wallpaper_url": "firewall-breach.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a burning digital firewall graphic with a stark 'BREACH DETECTED' alert over it. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 43,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Virus Upload",
+      "wallpaper_thumbnail": "virus-upload.webp",
+      "wallpaper_url": "virus-upload.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a malicious progress bar showing 'UPLOADING VIRUS... 99%' in toxic neon green. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 44,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Ransomware Locked",
+      "wallpaper_thumbnail": "ransomware-locked.webp",
+      "wallpaper_url": "ransomware-locked.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a digital padlock icon wrapped in glowing red chains with 'SYSTEM LOCKED' text. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 45,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Unauthorized Access",
+      "wallpaper_thumbnail": "unauthorized-access.webp",
+      "wallpaper_url": "unauthorized-access.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture with bold yellow typography reading 'UNAUTHORIZED ACCESS' accompanied by a blinking cursor. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 46,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Identity Theft",
+      "wallpaper_thumbnail": "identity-theft.webp",
+      "wallpaper_url": "identity-theft.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a scanning laser animation passing over a wireframe face with 'IDENTITY STOLEN' text in red. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 47,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Core Meltdown",
+      "wallpaper_thumbnail": "core-meltdown.webp",
+      "wallpaper_url": "core-meltdown.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a radioactive symbol glowing intense bright red with 'MELTDOWN IMMINENT' warning. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 48,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Neural Hijack",
+      "wallpaper_thumbnail": "neural-hijack.webp",
+      "wallpaper_url": "neural-hijack.webp",
+      "wallpaper_type": "static",
+      "rewarded": true,
+      "prompt": "Fullscreen texture of a digital brain graphic made of circuits covered by a 'NEURAL LINK COMPROMISED' red banner. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 49,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Security Alert",
+      "wallpaper_thumbnail": "security-alert.webp",
+      "wallpaper_url": "security-alert.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture featuring a repeating pattern of yellow and black 'SECURITY ALERT' caution tape across the screen. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
+    },
+    {
+      "wallpaper_id": 50,
+      "category_name": "System Compromised",
+      "wallpaper_name": "Threat Detected",
+      "wallpaper_thumbnail": "threat-detected.webp",
+      "wallpaper_url": "threat-detected.webp",
+      "wallpaper_type": "static",
+      "rewarded": false,
+      "prompt": "Fullscreen texture of a cyber crosshair locking onto a digital anomaly with 'THREAT DETECTED' flashing in red. Pure pitch-black background #000000. Absolutely no phone frame, no device borders, and no bezels. 8k resolution, vertical 9:20 aspect ratio."
     }
   ],
-  "more_apps": []
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Miami Urban Wallpapers 4K",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.miami.urban.wallpapers@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.miami.urban.wallpapers"
+    },
+    {
+      "id": 2,
+      "title": "Retro Y2K Aesthetic Wallpapers",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.y2kwallpaper@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.y2kwallpaper"
+    },
+    {
+      "id": 3,
+      "title": "Material Pallete Wallpapers 4K",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.material.palette.wallpapers@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.material.palette.wallpapers"
+    },
+    {
+      "id": 4,
+      "title": "Broken Screen Prank Wallpapers",
+      "image": "https://cdn.jsdelivr.net/gh/orvixastudio/com.orvixa.broken.screen.prank.wallpapers@main/ic_launcher.png",
+      "url": "https://play.google.com/store/apps/details?id=com.orvixa.broken.screen.prank.wallpapers"
+    }
+  ]
 }
